@@ -5,7 +5,6 @@ const User = {
   pw: 'test2323@@@'
 }
 
-
 export default function Login() {
     const [email, setEmail] = useState('');
     const [pw, setPw] = useState('');
