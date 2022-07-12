@@ -3,6 +3,7 @@
 |-----|------------------------|------------|
 | 1주차 | component, jsx, props  | 영화 앱 만들기 |
 | 2주차 | useState, useEffect  | 로그인 화면 만들기 |
+| 3주차 | Routing, Link, useNavigate | 영화 앱 만들기2 |   
 
 <br> 
 
